@@ -1,2 +1,4 @@
+https://expressjs.com/en/starter/static-files.html
 
-has the public.zip file designated in the exercise
+Serve the static content of public folder
+need to fix this later
