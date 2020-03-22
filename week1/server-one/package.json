@@ -1,1 +1,22 @@
-
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package for the week 1 exercise",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(github.com/Mikaelkok/Schoolwork/tree/master/week1/server-one)"
+  },
+  "keywords": [
+    "asd"
+  ],
+  "author": "Mikael Kokko <Mikael.Kokko@metropolia.fi>",
+  "license": "ISC"
+}
